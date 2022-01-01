@@ -2,7 +2,9 @@
 Desafio de Projeto sobre Git / Github
 
 ## Links Úteis
-[Linkedin](https://www.linkedin.com/in/stoberton-francisco/)
+stobertonf
+
+💬 Meu[Linkedin](https://www.linkedin.com/in/stoberton-francisco/)
 
 👋 Olá, pessoal, seja bem vindo ao meu repositório do desafio de Git / Github da DIO.
 
