@@ -3,9 +3,7 @@ Desafio de Projeto sobre Git / Github
 
 👋 Olá, pessoal, seja bem vindo ao meu repositório do desafio de Git / Github da DIO.
 
-📚 Neste desafio, tive a oportunidade de aprimorar meus conhecimentos em Git / Github. 
-
-⚡ Busco melhorar meus conhecimentos a cada dia.
+📚 Neste desafio, tive a oportunidade de aprimorar meus conhecimentos em Git / Github.
 
 
 ## Links Úteis
